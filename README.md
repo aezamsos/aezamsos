@@ -7,7 +7,7 @@ I am a passionate B.Tech CSE final-year student specializing in computer science
 - 🌍 Based in Warangal, India
 - 🎓 Currently pursuing my B.Tech at Kakatiya University
 - 💼 Aspiring Software Engineer
-- ✉️ aezamsos@gmail.com | LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
+- ✉️ aezamsos@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
 
 ## Skills
 
