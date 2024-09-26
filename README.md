@@ -46,6 +46,25 @@ A comprehensive cybersecurity toolkit with over 40 features designed to enhance 
 # Datacom Software Development Job Simulation on Forage. 
 •	Completed one year simulation of Datacom's software development approach, reviewed a web application for future improvements, and identified and fixed bugs 100% to enhance the application's performance.
 
+## Education
+
+### Bachelor of Technology (B.Tech) in Computer Science Engineering
+**Kakatiya University**  
+*Warangal, India*  
+*2022 - 2025 (Expected)*  
+- Cumulative GPA: 8.30/10.00
+
+### Diploma in Computer Engineering
+**State Board of Technical Education and Training**  
+*Warangal, India*  
+*2018 - 2021*  
+- Cumulative GPA: 8.48/10.00
+
+### Secondary School Certificate (SSC)
+**South Central Railway Mixed High School**  
+*Warangal, India*  
+*2017 - 2018*  
+- SSC Cumulative GPA: 8.50/10.00
 
 ## Achievements
 
@@ -70,8 +89,8 @@ A comprehensive cybersecurity toolkit with over 40 features designed to enhance 
 ## Get in Touch
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about technology!
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aazam_shareef)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aezamsos@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aazam-shareef-234170171/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aazam_shareef)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/aezamsos)
 
