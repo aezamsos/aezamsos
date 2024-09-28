@@ -115,6 +115,11 @@ A comprehensive cybersecurity toolkit with over 40 features designed to enhance 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/aezamsos)<br><br>
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aezamsos&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aazam_shareef)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Engr-Aazam-Shareef) 
@@ -128,9 +133,6 @@ A comprehensive cybersecurity toolkit with over 40 features designed to enhance 
 ![](https://github-readme-stats.vercel.app/api?username=aezamsos&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aezamsos&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aezamsos&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aezamsos&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aezamsos&icon=2&color=3)](https://visitcount.itsvg.in)
