@@ -139,5 +139,5 @@ A comprehensive cybersecurity toolkit with over 40 features designed to enhance 
 [![](https://visitcount.itsvg.in/api?id=aezamsos&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 You can Request Service
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@AazamShareef) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AazamShareef) 
 
