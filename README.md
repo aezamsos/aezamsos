@@ -11,7 +11,7 @@ I am a passionate B.Tech CSE final-year student specializing in computer science
 
 ## Skills
 
-- **Programming Languages:** Java, Python, HTML, SQL
+- **Programming Languages:** Java, Python, HTML, SQL, MongoDB
 - **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - **Database Management:** Oracle SQL, MS Access
 - **Cybersecurity:** Ethical Hacking, Vulnerability Assessment and Penetration Testing (VAPT)
