@@ -9,7 +9,6 @@ I am a passionate B.Tech CSE final-year student specializing in computer science
 - 💼 Aspiring Software Engineer
 - ✉️ aezamsos@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
 
-## Soft Skills
 ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-%F0%9F%A4%9D-blue)
 ![Effective Communication](https://img.shields.io/badge/Effective%20Communication-%F0%9F%92%AC-brightgreen)
 ![Continuous Learner](https://img.shields.io/badge/Continuous%20Learner-%F0%9F%8C%B1-yellow)
