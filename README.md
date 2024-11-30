@@ -68,6 +68,18 @@ A comprehensive cybersecurity toolkit with over 40 features designed to enhance 
 
 ## Internship Completed 
 
+# Walmart USA Advanced Software Engineering Virtual Experience
+Walmart Global Tech · Internship | Oct 2024 (1 month, Remote)
+
+• Solved complex technical projects, including creating a custom heap data structure in Java for shipping optimization.
+• Designed UML diagrams and database schemas tailored to Walmart’s operational needs.
+
+# Google Cloud Generative AI Virtual Internship
+SmartInternz · Internship | Sep 2024 – Oct 2024 (2 months, Remote)
+
+• Built and deployed machine learning models using Vertex AI.
+• Conducted data analysis with BigQuery to create predictive AI models.
+
 # J.P. Morgan Software Engineering Virtual Experience on Forage. 
 •	Set up a local development environment, fixed 90% broken repository files for correct web application output, and utilized JPMorgan Chase’s Perspective library to generate live data feed graphs for traders.
 
