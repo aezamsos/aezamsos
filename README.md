@@ -47,6 +47,8 @@ I am a passionate B.Tech CSE final-year student specializing in computer science
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projects
+### [📊 Data Statistics and Analytics with Python] (https://github.com/aezamsos/data-statistics-analytics-python)
+The repository "data-statistics-analytics-python" serves as a comprehensive collection of projects and resources developed during the Data Statistics and Analytics training conducted by CITD Hyderabad. Utilizing Google Colab as the primary platform, this repository encompasses various aspects of data analysis and visualization using Python.
 
 ### [Automated Attendance Management System Using Face Recognition (LBPH Algorithm)](https://github.com/aezamsos/Automated-Attendance-Management-System-Using-Face-Recognition-LBPH-Algorithm)
 A project that automates attendance management using face recognition technology, enhancing efficiency and accuracy.
