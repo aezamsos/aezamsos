@@ -93,8 +93,8 @@ SmartInternz · Internship | Sep 2024 – Oct 2024 (2 months, Remote)
 ### Bachelor of Technology (B.Tech) in Computer Science Engineering
 **Kakatiya University**  
 *Warangal, India*  
-*2022 - 2025 (Expected)*  
-- Cumulative GPA: 8.30/10.00
+*2022 - 2025*  
+- Cumulative GPA: 8.50/10.00
 
 ### Diploma in Computer Engineering
 **State Board of Technical Education and Training**  
