@@ -2,10 +2,10 @@
 
 ## About Me
 
-I am a passionate B.Tech CSE final-year student specializing in computer science, with a strong foundation in programming and a keen interest in software development, cybersecurity, and database management. I enjoy solving problems and developing efficient solutions that can positively impact users.
+I am a passionate Computer Science Engineering graduate with a strong foundation in programming and a keen interest in software development, cybersecurity, and database management. I enjoy solving problems and developing efficient solutions that can positively impact users.
 
 - 🌍 Based in Warangal, India
-- 🎓 Currently pursuing my B.Tech at Kakatiya University
+- 🎓 Completed my B.Tech in Computer Science and Engineering from Kakatiya University
 - 💼 Aspiring Software Engineer
 - ✉️ aezamsos@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
 
