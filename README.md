@@ -7,7 +7,7 @@ I am a passionate Computer Science Engineering graduate with a strong foundation
 - 🌍 Based in Hyderabad, India
 - 🎓 Completed my B.Tech in Computer Science and Engineering from Kakatiya University
 - 💼 Aspiring Software Engineer
-- ✉️ aezamsos@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
+- ✉️ aezamsos@gmail.com | engr.aazamshareef@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/aazam-shareef-234170171/)
 
 ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-%F0%9F%A4%9D-blue)
 ![Effective Communication](https://img.shields.io/badge/Effective%20Communication-%F0%9F%92%AC-brightgreen)
