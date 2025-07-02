@@ -1,5 +1,3 @@
-# Hello, I'm Aazam Shareef 👋
-
 ## About Me
 
 I am a passionate Computer Science Engineering graduate with a strong foundation in programming and a keen interest in software development, Google Cloud, cybersecurity, and database management. I enjoy solving problems and developing efficient solutions that can positively impact users.
